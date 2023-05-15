@@ -1,0 +1,12 @@
+@import url(./@media.css);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: block;
+    margin: 8px;
+}
